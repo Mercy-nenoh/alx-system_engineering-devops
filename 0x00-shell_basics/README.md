@@ -1,1 +1,1 @@
-Script that delete all files in the current working directoy that end with the character ~
+Script that deletes all files in the current directory that ends with characte ~
