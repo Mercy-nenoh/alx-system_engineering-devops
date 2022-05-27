@@ -1,1 +1,1 @@
-Script that list all files
+Script that prints the file name iamafile
