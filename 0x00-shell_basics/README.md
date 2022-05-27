@@ -1,1 +1,1 @@
-Display current directory content
+Script that creates a directory name
