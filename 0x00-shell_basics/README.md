@@ -1,1 +1,1 @@
-Script that deletes all files in the current directory that ends with characte ~
+Script that creat directories welcome/, welcome/to/ and welcome/to/school

@@ -1,0 +1,4 @@
+#!/bin/bash
+mrdir welcome/
+mkdir welcome/to/
+mkdir welcome/to/school/
