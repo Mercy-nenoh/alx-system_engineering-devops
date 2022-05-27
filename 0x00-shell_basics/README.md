@@ -1,1 +1,1 @@
-Script that creates a directory name
+Betty is my first directory
