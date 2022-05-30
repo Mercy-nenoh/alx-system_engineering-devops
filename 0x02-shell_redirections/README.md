@@ -1,1 +1,1 @@
-Script that remove all letters
+Displays all users and their directories
