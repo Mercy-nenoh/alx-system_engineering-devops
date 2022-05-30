@@ -1,1 +1,1 @@
-Script that display all the users and their home directories
+Command that find all empty files and directories
