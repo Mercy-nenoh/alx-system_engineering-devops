@@ -1,1 +1,1 @@
-Script thta counts the number of directories and subdirectories
+Script that display 10 newest files in the directory
