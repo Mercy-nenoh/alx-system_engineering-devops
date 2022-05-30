@@ -1,1 +1,1 @@
-Display the content of ect/psswd
+Display the content of /etc/passwd and /etc/hosts
