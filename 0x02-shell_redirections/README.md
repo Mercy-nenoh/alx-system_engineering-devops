@@ -1,1 +1,1 @@
-Script that takes a list of words
+Display lines contaning the partten
