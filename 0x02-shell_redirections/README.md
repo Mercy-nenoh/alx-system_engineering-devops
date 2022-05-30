@@ -1,1 +1,1 @@
-Create file named
+Script that write into a filr
