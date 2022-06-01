@@ -1,1 +1,1 @@
-Add /action to the PATH. 
+ script that prints hello user, where user is the current Linux user.
