@@ -1,10 +1,8 @@
 #!/usr/bin/env bash
-# Displays "Best School" 10 times using an until loop.
-
-count=0
-
-until [ $count -eq 10 ]
-do
-	echo "Best School"
-	(( count++ ))
+# This script is displaying a text using until
+i=0
+text="Best School"
+until ((i>9)); do
+      echo "$text"
+      ((i += 1))
 done
