@@ -1,3 +1,3 @@
-#!/user/bin/env ruby
+#!/usr/bin/env ruby
 
-puts ARVG[0].scan(/^\d{10,10}$/}.join
+puts ARGV[0].scan(/^\d{10,10}$/).join
